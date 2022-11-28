@@ -1,1 +1,1 @@
-# Classical-to-quantum-transfer-learning-for-Natural-Language-Processing-NLP-
+# Classical-to-quantum-transfer-learning-for-Natural-Language-Processing(NLP)
